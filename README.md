@@ -1,4 +1,4 @@
-# ollama-tui-code
+# tui-chat
 
 > A fast, lightweight, and responsive terminal user interface (TUI) for local Ollama LLMs built with Rust.
 
